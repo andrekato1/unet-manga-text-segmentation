@@ -1,6 +1,6 @@
 # Manga Text Segmentation using U-Net
 
-In this project, I explored the problem of text segmentation in manga (Japanese comics). This work is heavily based on the work "A study on image segmentation with convolutional neural networks: text segmentation problem in manga" [(link)]{https://bcc.ime.usp.br/tccs/2020/pedrohba/index.html} by Pedro Henrique Barbosa de Almeida. You can check the author's implementation [here]{https://github.com/robonauta/MAC0499}.
+In this project, I explored the problem of text segmentation in manga (Japanese comics). This work is heavily based on the work "A study on image segmentation with convolutional neural networks: text segmentation problem in manga" [(link)](https://bcc.ime.usp.br/tccs/2020/pedrohba/index.html) by Pedro Henrique Barbosa de Almeida. You can check the author's implementation [here](https://github.com/robonauta/MAC0499).
 
 My implementation uses PyTorch and Tversky loss, while the original implementation uses TensorFlow 1.x and categorical cross-entropy. This project was undertaken purely out of personal interest and as an exercise, and I do not plan on actively maintaining this repository. Of course, the original work goes a lot deeper into the problem itself, as well as exploring different settings.
 
